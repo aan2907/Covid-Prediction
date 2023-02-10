@@ -7,8 +7,6 @@ Requirements
 
 Python 3.x
 Pandas
-Numpy
-Scikit-learn
 
 Usage
 
@@ -19,7 +17,7 @@ Follow the prompts to enter your symptoms and get a diagnosis
 
 Data
 
-The data used to train the classifier is sourced from Kaggle. The data has been pre-processed and is included in the data directory.
+The data used to train the classifier is sourced from Ieee. The data has been pre-processed and is included in the data directory.
 
 Limitations
 
